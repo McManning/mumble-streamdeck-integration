@@ -48,3 +48,5 @@ cmake --build . --target package
 from your build directory in order to package the plugin.
 
 The packaged version of the plugin will reside in the directory `bundled` under the repository's root after a successful run of this command.
+
+Touch~
